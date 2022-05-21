@@ -1,3 +1,5 @@
+[See kata](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/java)
+
 Let us consider this example (array written in general format):
 
 ls = [0, 1, 3, 6, 10]
